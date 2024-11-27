@@ -43,6 +43,8 @@ public class ArithmeticOperator {
 		System.out.println(post++); // 5
 		System.out.println(post); // 6
 		
+		System.out.println();
+		
 	}
 
 }
