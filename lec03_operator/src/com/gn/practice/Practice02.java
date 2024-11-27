@@ -8,7 +8,7 @@ public class Practice02 {
 		이클립스 콘솔창에 출력되는 값은 우측 주석과 같아야 합니다.*/
 		Scanner scan = new Scanner(System.in);
 		
-		int result = 100;
+		int result = 100; 
 		result += 3;
 		System.out.println(result); //103
 		result -= 10;
