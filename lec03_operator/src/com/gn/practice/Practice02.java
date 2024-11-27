@@ -7,7 +7,7 @@ public class Practice02 {
 		/*아래 코드에 복합 대입 연산자를 빈칸에 채워주세요.
 		이클립스 콘솔창에 출력되는 값은 우측 주석과 같아야 합니다.*/
 		Scanner scan = new Scanner(System.in);
-		System.out.println("te");
+		System.out.println("");
 		int result = 100; 
 		result += 3;
 		System.out.println(result); //103
